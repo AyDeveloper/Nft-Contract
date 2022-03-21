@@ -1,0 +1,47 @@
+{
+"description": "B4BEZ are here & they are here to stay. a set of 3D rendered avatars all unique. We hope you collect & love your own cute b4be :)", 
+ "external_url": "https://opensea.io/collection/b4bez", 
+ "image": "https://ipfs.io/ipfs/QmXRVegdyHBPuo5vCma2f8n7BF4eeAgx3R6zafngzZXfPk", 
+ "name": "Gambit",
+"attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Finess"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 1.4
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "happy"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 90
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 20
+    }, 
+    {
+        "display_type": "date", 
+        "trait_type": "birthday", 
+        "value": 1646919223
+    }
+  ]
+}
